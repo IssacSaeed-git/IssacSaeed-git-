@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Issac </h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer & Cyber Security Enthusiast</h3>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/IssacSaeed-git">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
